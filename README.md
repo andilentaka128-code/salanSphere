@@ -1,2 +1,2 @@
 # salanSphere
-system that helps customers to book online client will be able to see free client and the busy one and client can able to but product inside this application that are availabe to the salon
+A system that helps customers book online appointments.Clients can seen and busy slots and manage products availabe to the salon within this application.
